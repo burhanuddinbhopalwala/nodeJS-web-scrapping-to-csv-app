@@ -1,0 +1,25 @@
+{
+  "name": "web-scrapping-to-csv-app",
+  "version": "1.0.0",
+  "description": "Web scrapping & storing it into csv-app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanuddinbhopalwala/web-scrapping-to-csv-app.git"
+  },
+  "homepage": "https://github.com/burhanuddinbhopalwala/web-scrapping-to-csv-app#readme",
+  "bugs": {
+    "url": "https://github.com/burhanuddinbhopalwala/web-scrapping-to-csv-app/issues"
+  },
+  "author": "Burhanuddin Bhopalwala",
+  "license": "Mozilla Public License Version 2.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "csv-writer": "^1.5.0",
+    "request": "^2.88.0"
+  }
+}
