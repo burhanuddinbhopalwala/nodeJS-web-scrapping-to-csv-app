@@ -23,11 +23,11 @@ Web scrapping using nodeJS to storing it into CSV for analysis.
 
 4: Run `npm start` for starting the server
 
-5: Change the URL & Classes inside __dirname/app.js file. Default scrapping URL: https://webscraper.io/test-sites/e-commerce/allinone
-
-## Usage
+5: Change the URL & Classes inside __dirname/app.js file. 
 
 Default scrapping URL: https://webscraper.io/test-sites/e-commerce/allinone
+
+## Usage
 
 Find CSV - __dirname/data/csv/
 
@@ -48,3 +48,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+
